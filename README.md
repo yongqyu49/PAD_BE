@@ -199,23 +199,3 @@ spring:
 ### Docker 배포
 
 프로젝트에 `Dockerfile`이 포함되어 있습니다 (`.gitignore`에서 제외됨).
-
-## 🤝 기여
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 라이선스
-
-이 프로젝트는 개인 프로젝트입니다.
-
-## 👥 개발자
-
-- **yongqyu49** - [GitHub](https://github.com/yongqyu49)
-
-## 📞 문의
-
-프로젝트 관련 문의사항은 GitHub Issues를 통해 남겨주세요.
